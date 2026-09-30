@@ -1,0 +1,45 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por UF
+Grupo procedimento: 02 Procedimentos com finalidade diagnostica
+Subgrupo proced.: 0204 Diagnostico por radiologia, 0205 Diagnostico por ultrasonografia, 0206 Diagnostico por tomografia, 0207 Diagnostico por ressonancia magnetica, 0208 Diagnostico por medicina nuclear in vivo
+Período:2025
+"UF";"Qtd.aprovada"
+"11 Rondônia";1045229
+"12 Acre";701817
+"13 Amazonas";2590650
+"14 Roraima";279154
+"15 Pará";4343120
+"16 Amapá";435420
+"17 Tocantins";767295
+"21 Maranhão";3165986
+"22 Piauí";1216371
+"23 Ceará";3262347
+"24 Rio Grande do Norte";1084394
+"25 Paraíba";1432451
+"26 Pernambuco";4337707
+"27 Alagoas";1341390
+"28 Sergipe";777957
+"29 Bahia";6659331
+"31 Minas Gerais";10379430
+"32 Espírito Santo";2536663
+"33 Rio de Janeiro";13376509
+"35 São Paulo";36540086
+"41 Paraná";6021186
+"42 Santa Catarina";4952983
+"43 Rio Grande do Sul";5931659
+"50 Mato Grosso do Sul";1186740
+"51 Mato Grosso";1962787
+"52 Goiás";4425900
+"53 Distrito Federal";1398614
+"Total";122153176
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
